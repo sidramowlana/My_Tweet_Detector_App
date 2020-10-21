@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">My Tweet Detector App</string>
+    <string name="user_name">   UserName</string>
+    <string name="password">   Password</string>
+    <string name="dont_have_an_account">Dont have an account?</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="history">History</string>
+    <string name="validate">Validate</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="validate_me_here">validate ME here</string>
+    <string name="signin">SignIn</string>
+    <string name="you_have_an_account">You have an account?</string>
+    <string name="email">   Email</string>
+    <string name="post_url">Post URL</string>
+    <string name="tweet_text">Tweet Text</string>
+    <string name="tweet_url">Tweet URL</string>
+    <string name="tweet">Tweet</string>
+    <string name="user_details">User Details</string>
+    <string name="user_name_value">User name value</string>
+    <string name="no_of_followers">No of Followers:</string>
+    <string name="no_of_followers_value">No of followers value:</string>
+    <string name="validated_date">Validated Date:</string>
+    <string name="date">Date</string>
+</resources>
